@@ -1,0 +1,144 @@
+.page1{
+    background: url(image/1.jpg)
+    no-repeat;
+    background-size: cover;
+}
+.page1 img{
+    position: absolute;
+}
+.page1 img:nth-of-type(1){
+    width: 5rem;
+    height: 3rem;
+    right: 1.25rem;
+    bottom: 10rem}
+.page2{
+    background: url(image/18.JPG) no-repeat;
+    background-size: cover;
+}
+.page2 img{
+    position: absolute;
+}
+
+.page2 img:nth-of-type(1){
+    width: 5.0rem;
+    height: 0.9rem;
+    right: 1.25rem;
+    bottom:4rem;}
+.page2 img:nth-of-type(2){
+        width: 5.0rem;
+        height: 0.9rem;
+        right: 1.25rem;
+        bottom:3rem;}
+
+
+.page2 img:nth-of-type(3){
+    width: 6rem;
+    height: 20rem;
+    right: -0.1rem;
+    bottom: 2rem;}
+.page3{
+    background: url(image/19.JPG)
+    no-repeat;
+    background-size: cover;
+}
+.page3 img{
+     position: absolute;}
+.page3 img:nth-of-type(1){
+        width: 5.0rem;
+        height: 0.9rem;
+        right: 1.25rem;
+        bottom:4rem;
+    }
+.page3 img:nth-of-type(2){
+        width: 5.0rem;
+        height: 0.9rem;
+        right: 1.25rem;
+        bottom:3rem;
+    }
+.page3 img:nth-of-type(3){
+        width: 5.0rem;
+        height: 0.9rem;
+        right: 1.25rem;
+        bottom:2rem;
+    }
+
+
+
+
+.page4{
+    background: url(image/20.JPG)
+        no-repeat;
+        background-size: cover;
+}
+.page4 img{
+        position: absolute;}
+.page4 img:nth-of-type(1){
+            width: 5.0rem;
+            height: 0.9rem;
+            right: 1.25rem;
+            bottom:4rem;
+        }
+.page4 img:nth-of-type(2){
+            width: 5.0rem;
+            height: 0.9rem;
+            right: 1.25rem;
+            bottom:3rem;
+        }
+    
+.page5 {
+        background: url(image/17.JPG)
+        no-repeat;
+        background-size: cover;
+        }
+.page5 img{
+         position: absolute;}
+
+.page5 img:nth-of-type(1){
+            width: 8rem;
+            bottom:5rem;
+            }
+.page5 img:nth-of-type(2){
+    width: 5.0rem;
+    height: 0.9rem;
+    right: 0rem; } 
+.page5 img:nth-of-type(3){
+    width: 5.0rem;
+    height: 0.9rem;
+    right: rem;
+    bottom: 9rem}   
+.page5 img:nth-of-type(4){
+    width: 5.0rem;
+    height: 0.9rem;
+    right: 0rem;
+    bottom: 6rem;
+}
+.page5 img:nth-of-type(5){
+    width: 5.0rem;
+    height: 0.9rem;
+    right: rem;
+    bottom: 3rem}  
+ .page5 img:nth-of-type(6){
+    width: 5.0rem;
+    height: 0.9rem;
+    right: 0rem;
+    bottom: 0.1rem;}                 
+.page6{
+                background: url(image/37.gif)
+                    no-repeat;
+                    background-size: cover;
+                 }
+.page6 img{
+          position: absolute;}  
+
+.page6 img:nth-of-type(2){
+    width: 5.0rem;
+    height: 5rem;
+    right: 0rem;}
+.page6 img:nth-of-type(3){
+    width: 4rem;
+    height: 5rem;
+    bottom: 4rem;}       
+.page6 img:nth-of-type(4){
+    width: 4rem;
+    bottom: 0rem;
+    right: 0rem; }   
